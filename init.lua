@@ -22,7 +22,6 @@ vim.opt.incsearch = true
 vim.g.mapleader = " "
 vim.keymap.set('n', '<Leader>pv', vim.cmd.Explore)
 
-
 -- Diagnostics
 vim.diagnostic.config({
     virtual_text = { spacing = 4, prefix = "●" },  -- inline hints

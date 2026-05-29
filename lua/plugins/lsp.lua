@@ -17,7 +17,6 @@ return {
             "ts_ls",
             "tailwindcss",
             "terraformls",
-            "ruby_lsp",
         },
         automatic_enable = true,
     },
